@@ -1,37 +1,18 @@
 {"version_code":451184,"content":"
-<p>สอฯํห 9.10</p>
-
-<li>วแสอฯํห แไำฮษ วแใวั฿ส 2.16.310</li>
-<li>ลึวÝษ Ýํำวส วแๆวสำ วศ วแฬฯํฯษ</li>
-<li>ลใ฿วไํษ สฺฯํแ วแีๆั Þศแ วัำวแๅว(วแัำใ - วแ฿สวศษ ลึวÝษ วแใแีÞวส ฺแ์ วแีๆั)</li>
-<li>(อีัํว) ลใ฿วไํษ วแวสีวแ ใ฿วแใษ ๅวสÝํษ ใไ ฯวฮแ วแๆวสำ วศ</li>
-<li>ลึวÝษ วแฮํวั 2.5.4 แสอฯํฯ ใฯษ สไศํๅ ใไ วีศอ ใสีแ ๆใไ าวั ศัๆÝวํแ฿</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 5.3 แสอฯํฯ อฬใ วแใÞฺุ วแีๆสํ วแใัำแ แ 100 ใํÛว ศฯแว ใไ 16 ใํÛว</li>
-<li>ลึวÝษ วแฮํวั 2.2.2c แอำวศ วแๆÞส วแใไÞึํ แวฮั ูๅๆั </li>
-<li>ลึวÝษ วแฮํวั ัÞใ 2.4.14 แสÛํํั แๆไ วำใ วแใฬใๆฺษ ๆฯฺใ สÛํํั หํใ ิวิษ วฺวฯษ วแสๆฬํๅ ใไ วแÞำใ 2.4</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 3.14 แสÛํํั แๆไ วํÞๆไษ วแÝํำวส Ýํ ิวิษ วแลิฺวัวส วแใไศหÞษ</li>
-<li>ลีแวอ ฺฯใ Ýสอ ำฬแ whatsapp.log</li>
-<li>ลึวÝษ วแสัฬใษ แแÛษ วแÝวัำํํษ</li>
-<li>ลีแวอ วแฺๆฯษ แแฮแÝํษ วแวÝสัวึํษ ฺไฯ วำสฮฯวใ ฮแÝํษ ใฮีีษ แ฿แ ใอวฯหษ (วแฮํวั 1.2.0)</li>
-<li>ลีแวอ ๆํฯฬส ลฮÝวม วแูๅๆั Ýํ ศฺึ วแวฬๅาษ</li>
-<li>สฺฯํแ วแสัฬใษ Ýํ วแแÛษ วแฺัศํษ</li>
-<li>ลีแวอวส วฮั์</li>
-
-
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
-
-","url":"www.azmods.co"
+<p>ุงูุงุตุฏุงุฑ 9.10</p>
+<li>ุงูุชุญุฏูุซ ููุณุฎุฉ ุงูู…ุชุฌุฑ 2.20.172</li>
+ 4.</li><li>
+<li>ุชุญุฏูุซ ุงููุณุฎุฉ ุฅูู ุฅุตุฏุงุฑ ุณูู ุจูุงู ุฑูู… <b>2.20.172</b>
+</li>
+<li> ูุณุฎุฉ ุขู…ูุฉ ู <b>ุถุฏ ุงูุญุธุฑ</b>
+</li>
+<li> ุชุฏุนู… ู…ูุงูู…ุงุช ุงูููุฏูู ูุงูู…ูุงูู…ุงุช ุงูุตูุชูุฉ ุงูุฌู…ุงุนูุฉ ุญุชู 8 ู…ุดุงุฑููู
+</li>
+<li> ุงููุถุน ุงูุฏุงูู
+</li>
+<li>ุชูุนูู ุงูู…ูุตูุงุช ุงูู…ุชุญุฑูุฉ</li>
+<li>ุงุตูุงุญ ุงูููุงุฑ ุงูุชุทุจูู ูู ุจุนุถ ุงูุงุฌูุฒุฉ
+</li>
+<li> ุงุตูุงุญุงุช ุงุฎุฑู</li>
+","url":"www.abodysy.blogspot.com"
 }
