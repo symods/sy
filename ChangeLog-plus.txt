@@ -1,4 +1,4 @@
-{"version_code":451184,"content":"
+{"version_code":454021,"content":"
 <p>الاصدار 9.10</p>
 <li>التحديث لنسخة المتجر 2.20.172</li>
  4.</li><li>
